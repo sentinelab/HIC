@@ -57,10 +57,14 @@ python3.8 main.py https://sentrylab.cn/assets/img/favicon.png
 
 - Results:
 
-![](./img/截屏2023-09-10 13.03.03.png)
+
+![](./img/2023-09-10-13.03.03.png)
+
 
 - Verify
 
-![](./img/截屏2023-09-10 13.04.02.png)
+
+![](./img/2023-09-10-13.04.02.png)
+
 
 ## Enjoy ;)
