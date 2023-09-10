@@ -1,0 +1,11 @@
+tensorboard
+.idea
+*.egg-info
+*.pth
+*.pyc
+experiments
+user_config.yaml
+results
+tb_stat
+tmp_files
+tmp_log
