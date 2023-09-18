@@ -7,3 +7,13 @@
   url_desc: https://sentrylab.cn
   fofa_hash: -44876556
   censys_hash: d4447093f53f29d5ac62691e4f61c4eb
+
+- favicon_name: 禅道/zentao, CMS, PHP
+  url_desc: https://www.zentao.net/
+  fofa_hash: -1701121990
+  censys_hash: d23e9e1d5883519aac0331d2dde98f65
+
+- favicon_name: 金蝶/kingdee k3cloud, ERP, JAVA
+  url_desc: https://open.kingdee.com/k3cloud/wenku/Index.aspx
+  fofa_hash: -1629133697
+  censys_hash: 825af13371930eeb2f85cf075fa25b68
